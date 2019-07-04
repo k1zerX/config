@@ -6,10 +6,10 @@
 #    By: kbatz <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/01/15 17:28:54 by kbatz             #+#    #+#              #
-#    Updated: 2019/01/15 17:31:40 by kbatz            ###   ########.fr        #
+#    Updated: 2019/07/04 16:45:09 by kbatz            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-cp -Rf plists/ Library/
-cp -Rf vim/ ~/
-cp -Rf zsh/ ~/
+# cp -Rf Preferences/ ~/Library/Preferences/
+cp -Rf Preferences ~/Library/
+cp -Rf rc/ ~/
